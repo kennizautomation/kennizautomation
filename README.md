@@ -67,6 +67,11 @@ My portfolio includes sanitized reference architectures, integration examples, a
 **[AI Voice Receptionist — Architecture & Integration Portfolio](https://github.com/kennizautomation/ai-voice-receptionist)**  
 Inbound call flow, scheduling and CRM architecture, example agent instructions, synthetic payloads, and JavaScript validation examples. *Reference project; not a deployed phone service.*
 
+### AI Outbound Calling
+
+**[AI Outbound Calling Agent — Vapi, Make.com & GoHighLevel](https://github.com/kennizautomation/ai-outbound-calling-agent)**  
+Outbound qualification, GHL Calendar booking, callback and transfer logic, Make.com scenario plans, CRM field mappings, and acceptance tests. *Reference documentation; live integrations and test results are not yet verified in this repository.*
+
 **[Explore all repositories](https://github.com/kennizautomation?tab=repositories)**
 
 ---
