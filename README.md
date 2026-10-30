@@ -60,9 +60,14 @@ Connected automations handle booking, rescheduling, reminders, callback requests
 
 ## Portfolio Projects
 
-I'm preparing public, shareable examples with technical documentation, workflow diagrams, and demos. Any client-specific information, credentials, and sensitive data will remain private.
+My portfolio includes sanitized reference architectures, integration examples, and technical documentation. Client-specific information and credentials remain private.
 
-**[Explore my GitHub repositories](https://github.com/kennizautomation?tab=repositories)**
+### Featured Project
+
+**[AI Voice Receptionist — Architecture & Integration Portfolio](https://github.com/kennizautomation/ai-voice-receptionist)**  
+Inbound call flow, scheduling and CRM architecture, example agent instructions, synthetic payloads, and JavaScript validation examples. *Reference project; not a deployed phone service.*
+
+**[Explore all repositories](https://github.com/kennizautomation?tab=repositories)**
 
 ---
 
