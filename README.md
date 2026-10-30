@@ -70,7 +70,7 @@ Inbound call flow, scheduling and CRM architecture, example agent instructions, 
 ### AI Outbound Calling
 
 **[AI Outbound Calling Agent — Vapi, Make.com & GoHighLevel](https://github.com/kennizautomation/ai-outbound-calling-agent)**  
-Outbound qualification, GHL Calendar booking, callback and transfer logic, Make.com scenario plans, CRM field mappings, and acceptance tests. *Reference documentation; live integrations and test results are not yet verified in this repository.*
+Olivia outbound calling case study: GHL call initiation and analysis, Vapi qualification and transfer, and Make.com availability checking and GHL Calendar booking. Includes eight redacted platform screenshots and a sanitized agent prompt. *Configuration evidence supplied; end-to-end execution not independently verified.*
 
 **[Explore all repositories](https://github.com/kennizautomation?tab=repositories)**
 
